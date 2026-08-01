@@ -2,7 +2,7 @@ Changelog
 =========
 
 Version 5.1.21 (2026-08-01)
---------------------------
+----------------------------
 
 - [CHANGE] Replaced all deprecated numpy.in1d usage with numpy.isin.
 
